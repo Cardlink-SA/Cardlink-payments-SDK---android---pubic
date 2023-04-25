@@ -1,1 +1,1 @@
-# Cardlink-payments-SDK---android---pubic
+# Cardlink-payments-SDK---android---public
